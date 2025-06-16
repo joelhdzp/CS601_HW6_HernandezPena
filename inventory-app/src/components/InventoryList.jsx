@@ -29,11 +29,7 @@ function InventoryList() {
           style={{ textDecoration: 'none', color: 'inherit' }}>
             {/* Pass props to InventoryItem */}
             <InventoryItem
-            key={item.sku} 
-            sku={item.sku} 
-            name={item.name} 
-            qty={item.qty} 
-            price={item.price} />
+            key={item.sku} item={item} />
           </Link>
         ))}
       </div>
