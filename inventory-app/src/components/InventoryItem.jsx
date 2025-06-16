@@ -1,16 +1,16 @@
 /* InventoryItem component renders individual product information:
- * SKU:number
- * Name:string
- * Quantity:number
- * Price:float
+ * SKU - number (key)
+ * Name - string
+ * Quantity - number
+ * Price - float
 */
-function InventoryItem({ sku, name, qty, price }) {
+function InventoryItem({ item }) {
   return (
     <div className="inventory-item">
-      <p><strong>SKU:</strong> {sku}</p>
-      <p><strong>Name:</strong> {name}</p>
-      <p><strong>Quantity:</strong> {qty}</p>
-      <p><strong>Price:</strong> ${price.toFixed(2)}</p>
+      <p><strong>SKU:</strong> {item.sku}</p>
+      <p><strong>Name:</strong> {item.name}</p>
+      <p><strong>Quantity:</strong> {item.qty}</p>
+      <p><strong>Price:</strong> ${item.price.toFixed(2)}</p>
     </div>
   )
 }
