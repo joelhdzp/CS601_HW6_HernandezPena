@@ -2,14 +2,11 @@
 
 ## 📄 Project Description
 
-**Fresh Eats** - Inventory App is a React-based web application for managing and viewing grocery store inventory. Users can view the main inventory list, click any item to see detailed product info (including images and descriptions), and access a help tab for support. The application is fully responsive, user-friendly, and features clean, organized code with meaningful comments. It is an extension and enhancement of the Assignment 5 inventory app, adding product detail pages, responsive design, a help/search tab, and improved navigation using React Router v6. The app is client-side and uses React + Vite for fast performance and scalability.
+**Fresh Eats** Inventory App is a React-based web application for managing and viewing grocery store inventory. Users can view the main inventory list, click any item to see detailed product info (including images and descriptions), and access a help tab for support. The application is fully responsive, user-friendly, and features clean, organized code with meaningful comments. It is an extension and enhancement of the Assignment 5 inventory app, adding product detail pages, responsive design, a help/search tab, and improved navigation using React Router v6. The app is completely client-side and uses React + Vite for fast performance and scalability.
 
 ---
 
 ## 📁 Project Structure
-
-<details>
-<summary>Click to expand folder and file descriptions</summary>
 
 ```plaintext
 /CS601_HW6_HernandezPena
@@ -41,7 +38,6 @@
   vite.config.js             # Vite configuration
 README.md                    # This documentation file
 ```
-</details>
 
 ---
 
