@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "001",
+    "name": "Apples",
+    "qty": 30,
+    "price": 1.75,
+    "description": "Crisp and juicy fruit, perfect for snacks or dessert.",
+    "image": "/images/apples.png"
+  },
+  {
+    "sku": "002",
+    "name": "Oranges",
+    "qty": 20,
+    "price": 1.25,
+    "description": "Sweet and tangy citrus, rich in vitamin C.",
+    "image": "/images/oranges.png"
+  },
+  {
+    "sku": "003",
+    "name": "Bananas",
+    "qty": 25,
+    "price": 0.98,
+    "description": "Creamy, energizing fruit, ideal for breakfast or smoothies.",
+    "image": "/images/bananas.png"
+  },
+  {
+    "sku": "004",
+    "name": "Tomatoes",
+    "qty": 15,
+    "price": 1.15,
+    "description": "Juicy, versatile fruit for salads, sauces, and cooking.",
+    "image": "/images/tomatoes.png"
+  },
+  {
+    "sku": "005",
+    "name": "Lettuce",
+    "qty": 18,
+    "price": 2.50,
+    "description": "Fresh, crunchy greens for salads and sandwiches.",
+    "image": "/images/lettuce.webp"
+  },
+  {
+    "sku": "006",
+    "name": "Cheese",
+    "qty": 100,
+    "price": 3.35,
+    "description": "Savory, creamy dairy, great for snacks or recipes.",
+    "image": "/images/cheese.png"
+  },
+  {
+    "sku": "007",
+    "name": "Milk",
+    "qty": 22,
+    "price": 2.29,
+    "description": "Nutritious, refreshing drink, essential for cereals and baking.",
+    "image": "/images/milk.png"
+  },
+  {
+    "sku": "008",
+    "name": "Eggs",
+    "qty": 120,
+    "price": 5.77,
+    "description": "Protein-rich staple, perfect for breakfast.",
+    "image": "/images/eggs.webp"
+  }
+]
